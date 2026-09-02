@@ -9,7 +9,7 @@
 export default function WelcomeCard() {
   return (
     <div>
-      <h1>Welcome to the World of React</h1>
+      <h2>Welcome to the World of React</h2>
       <p>This is our first day practice.</p>
     </div>
   );
